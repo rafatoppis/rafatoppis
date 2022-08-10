@@ -4,6 +4,7 @@ Hello there, I'm Rafa Toppis! <br><br>
 💬 Let's talk about javascript, front-end, back-end, design patterns.<br>
 🏆 Continuously learning how to make the world better.<br>
 Originally from Brazil, now based in Dublin, Ireland.<br>
+Also Pianist, Gamer, Traveler. <br>
 <br>
 
 Get in touch with me:   <a href="https://linkedin.com/in/rafatoppis" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafatoppis" height="30" width="100" /></a>
